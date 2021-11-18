@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lauraa1003
-- 👀 I’m interested in front-end / back-end
-- 🌱 I’m currently learning CS50's Web Programming with Python and JavaScript
+- 👀 I’m interested in front-end - Javascript
+- 🌱 I’m currently learning The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
