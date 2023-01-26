@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Lauraa1003
-- 🌱 I’m currently following SIT Academy - Fullstack web developer
 - 📫 How to reach me: lauraavanos@hotmail.com
 
 <!---
